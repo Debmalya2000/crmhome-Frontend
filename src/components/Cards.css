@@ -1,0 +1,158 @@
+.card-body{
+    width: 80px;
+    height: 140px;
+    margin-left: 150px;
+}  
+.card{
+    margin-left: 30px;
+    border-radius: 10px;
+    
+}
+.row{
+    padding-left: 430px;
+    padding-top: 140px;
+    padding-right: 600px;
+    
+}
+.row1{
+    padding-left: 310px;
+    margin-right: -385px;
+    margin-top: -142px;
+}
+.row2{
+    padding-left: 650px;
+    margin-right: -725px;
+    margin-top: -142px;
+}
+.card-title{
+    font-size: 16px;
+    word-wrap:normal;
+    color: rgb(7, 59, 76);
+    
+}
+.card-text{
+    font-size: 26px;
+    margin-left: -140px;
+    margin-top: 30px;
+    font-weight:bolder;
+    color: rgb(7, 59, 76);
+}
+.Sales-icon{
+    margin-top: -280px;
+    margin-left: -140px;
+    height: 36px;
+}
+.Customer-icon{
+    margin-top: -282px;
+    margin-left: -140px;
+    height: 36px;
+}
+.Task-icon{
+    margin-top: -282px;
+    margin-left: -140px;
+    height: 36px;
+}
+.row3{
+    padding-left:585px;
+    margin-right:-725px;
+    margin-top: 20px;
+    
+}  
+.card-body1{
+    height: 310px;
+}
+.row4{
+    padding-left:585px;  
+    margin-right:-725px;
+    margin-top: 350px;
+}
+.card-body2{
+    height: 110px;
+}
+.row5{
+    padding-left: 0px;
+    margin-right: -350px;
+    margin-top: 20px;
+    margin-left: -28px;
+}
+.card-body3{
+    height: 440px;
+}
+.card-title1{
+    font-weight: bolder;
+    margin-top: 15px;
+    margin-left: 20px;
+    color: rgb(7, 59, 76);
+} 
+.card-title2{
+    font-size: 14px;
+    margin-top: 5px;
+    margin-left: 20px;
+    color: rgb(7, 59, 76);
+
+} 
+.card-title3{
+    font-weight: bolder;
+    margin-top: 15px;
+    margin-left: 20px;
+    color: rgb(7, 59, 76);
+} 
+.card-text1{
+    font-size: 16px;
+    margin-top: 15px;
+    list-style: square;
+    cursor: pointer;
+    margin-left: 10px;
+    color:rgb(7, 59, 76);
+    line-height: 30px;
+    font-weight: 600;
+}
+.card-text2{
+    font-size: 12px;
+    margin-left: 20px;
+    margin-top: -5px;
+    color:rgb(7, 59, 76);
+}  
+.line1{
+    font-size: 12px;
+    margin-left: 420px;
+    margin-top: -33px;
+    color:rgb(7, 59, 76);
+}
+.line2{
+    font-size: 25px;
+    margin-left: 510px;
+    margin-top: -75px;
+    cursor: pointer;
+}
+.triple-dots{
+    font-size: 20px;
+    margin-left: 250px;
+    margin-top: -260px;
+    list-style: none;
+    cursor: pointer;
+}
+.Sales-image{
+    margin-left: 30px;
+    height: 400px;
+    width: 500px;
+    margin-top: 5px;
+    
+}
+.date{
+    font-size: 16px;
+    margin-left: 210px;
+    margin-top: -70px;
+    color:rgb(7, 59, 76);
+}
+.time{
+    font-size: 36px;
+    margin-left: 210px;
+    font-weight: 600;
+    margin-top: -18px;
+    color:rgb(7, 59, 76);
+}
+.Clock-icon{
+    margin-left: 20px;
+    height: 40px;
+}

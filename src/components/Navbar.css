@@ -1,0 +1,45 @@
+.navbar-expand{
+    color: white;
+    background-color: rgb(7, 59, 76);
+    margin-left: 389px;
+    margin-right: -212px;
+    margin-top: -74px;
+    padding-bottom: 20px;
+    height: 200px;
+    
+}       
+
+.navbar-brand{
+    color: white ;
+    margin-bottom: 15px;
+    padding-left: 40px;
+    font-size: 28px;
+
+}
+.para{
+    font-size: 11px;
+    padding-left: 40px;
+}
+.icon-design{
+    width: 44px;
+    height: 44px;
+    margin-left: 890px;
+    margin-top: -170px;
+    cursor: pointer;
+    
+}
+.icon-design1{
+    width: 30px;
+    height: 30px;
+    margin-left: 940px;
+    margin-top: -305px;
+    cursor: pointer;
+    
+}
+.icon-design2{
+    width: 26px;
+    height: 26px;
+    margin-top: -305px;
+    cursor: pointer;
+    margin-left: 20px;
+}
